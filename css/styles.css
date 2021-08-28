@@ -1,0 +1,13 @@
+@import "reset.css";
+
+/* component */
+@import "./component/navbar.css";
+
+/* screen */
+@import "./screen/index.css";
+
+body {
+    /* padding-top = 상단 고정바 값 */
+    height: 3000px;
+    background-color: #FDF7F6;
+}

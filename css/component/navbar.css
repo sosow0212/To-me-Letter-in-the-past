@@ -1,0 +1,22 @@
+
+.navbar {
+    height: 55px;
+    color: black;
+    font-weight: bold;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    /* width: 100%; */
+
+    margin-right: 30px;
+}
+
+.navbar-nav span {
+    margin: 20px 20px;
+}
+

@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&display=swap');
+/* 영어폰트 */
+/* 한글폰트 */
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Gothic+Coding&display=swap');
+
+.main-index {
+    font-family: 'Architects Daughter', cursive;
+    font-family: 'Nanum Gothic Coding', monospace;
+}
+
+.main-index-title {
+    display: flex;
+}
+
+.main-index-title__content:nth-child(1) {
+    width: 50%;
+    height: 800px;
+    background-color: #E2DEDB;
+}
+
+.main-index-title__content:nth-child(2) {
+    width: 50%;
+    height: 800px;
+    background-color: #FFFFFF;
+}
+
+.main-index-title__content h1 {
+    margin-top: 150px;
+    font-size: 50px;
+    text-align: center;
+}
+
+.main-index-title__content p {
+    font-size: 20px;
+    text-align: center;
+    color: rgba(0, 0, 0, 0.4);
+    margin: 400px 60px;
+}
+
+.main-index-title img {
+    margin: 30px 165px;
+    height: 400px;
+    width: 400px
+}
