@@ -6,6 +6,7 @@
 /* screen */
 @import "./screen/index.css";
 @import "./screen/member.css";
+@import "./screen/letter.css";
 
 body {
     /* padding-top = 상단 고정바 값 */
